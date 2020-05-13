@@ -105,7 +105,7 @@
 
 ![Map](https://github.com/AkashSDas/Data-Science-Fundamentals/blob/master/Data-Visualisation-with-Python/results-images/map/choropleth-maps/map2.png)
 
-#### Police Department Incidents 
+#### `Crime in San Francisco Visualisation`
 
 
 ![Map](https://github.com/AkashSDas/Data-Science-Fundamentals/blob/master/Data-Visualisation-with-Python/results-images/map/police-department-incidents/map3.png)
